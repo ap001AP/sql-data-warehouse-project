@@ -1,7 +1,5 @@
 # Data Warehouse and Analytics Project
 
----
-
 ## Project Requirements
 
 ### Building the Data Warehouse
